@@ -10,19 +10,17 @@ Everyone over here helped develop **VirtualCity**. Thank you :)
 
 - [Kabir Swain](https://github.com/kswain98)
 - [Skyler Han](https://github.com/sijie-han/)
-- [Shuang Li](https://people.csail.mit.edu/lishuang/)
-- [Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/) 
 - [Jin Zhang](https://groups.csail.mit.edu/vision/torralbalab/) 
 - [Ayush Raina](https://groups.csail.mit.edu/vision/torralbalab/) 
+- [Shuang Li](https://people.csail.mit.edu/lishuang/)
+- [Tamar Rott Shaham](https://tamarott.github.io/) 
 - [Michael Stopa](https://groups.csail.mit.edu/vision/torralbalab/) 
-- [Skyler Han](https://groups.csail.mit.edu/vision/torralbalab/) 
-- [Xavier Puig](https://www.xavierpuigf.com/)
-- [Jordan Ren](https://www.linkedin.com/in/jordan-ren)
+- [Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/) 
 
 
 ### Papers
 
-- [Working on it](https://github.com/CSAILVision) 
+- [Working on it](https://github.com/kswain98/environment) 
 
 
 ### Acknowledgements
