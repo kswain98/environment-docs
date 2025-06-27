@@ -13,7 +13,6 @@ Everyone over here helped develop **VirtualCity**. Thank you :)
 - [Jin Zhang](https://groups.csail.mit.edu/vision/torralbalab/) 
 - [Ayush Raina](https://groups.csail.mit.edu/vision/torralbalab/) 
 - [Shuang Li](https://people.csail.mit.edu/lishuang/)
-- [Tamar Rott Shaham](https://tamarott.github.io/) 
 - [Michael Stopa](https://groups.csail.mit.edu/vision/torralbalab/) 
 - [Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/) 
 
